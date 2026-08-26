@@ -1,2 +1,11 @@
-# zhoufeng
-Config files for my GitHub profile.
+- 👋 Hi, I’m @zhoufeng9
+- 👀 My interests mainly include Agent and Embodied-AI. 
+- 🌱 I used to be  an algorithm contest player ICPC-regional 🥈. 
+- 💞️  I'm a RA at NJU(Suzhou), and I graduated from NUDT(Changsha) with a master's degree.
+- 📫 How to reach me: wangzhoufeng7346@gmail.com
+!
+
+<!---
+zhoufeng9/zhoufeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
